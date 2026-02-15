@@ -1,0 +1,20 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# System
+.DS_Store
+.idea/
+.vscode/
